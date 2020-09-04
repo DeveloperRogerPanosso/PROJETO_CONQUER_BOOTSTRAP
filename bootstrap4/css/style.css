@@ -1,0 +1,117 @@
+body {
+    background-color: #e2e2e2!important;
+    width: 100%!important;
+}
+.navegacao {
+    width: 100%!important;
+    background-color: #353535!important;
+    text-align: center!important;
+}
+.backgroundHeader {
+    background-color: #353535!important;
+}
+.description {
+    font-style: unset!important;
+}
+.paddingMenu {
+    padding-left: 12px!important;
+    padding-right: 12px!important;
+}
+.fontLink {
+    color: #ffffff!important;
+}
+.fontLink:hover {
+    background-color: #a1a1a1!important;
+}
+.colorLink {
+    color: #ffffff!important;
+    font-style: unset!important;
+    font-size: 16px!important;
+}
+.areaBackground01 {
+    max-width: 100%!important;
+    min-height: 400px!important;
+    background-image: url("../../images/background.WEBP")!important;
+    background-size: cover!important;
+    background-position: center!important;
+    background-repeat: no-repeat!important;
+    visibility: visible!important;
+}
+.paddingDescription {
+    padding-top: 165px!important;
+}
+.conquer {
+    font-style: unset!important;
+    font-weight: 400!important;
+    color: #ffffff!important;
+    text-shadow: 3px 3px 3px #353535!important;
+    font-size:48px!important;
+}
+.subConquer {
+    font-style: unset!important;
+    font-weight: 300!important;
+    color: #ffffff!important;
+}
+.paddingCol {
+    padding-top: 50px!important;
+}
+.area01 {
+    width:350px!important;
+    background-color: rgb(170, 170, 170)!important;
+    text-align: center!important;
+}
+.buttonGreen {
+    background-color: rgb(4, 102, 9)!important;
+    border:1px solid rgb(4, 102, 9)!important;
+    border-color: rgb(4, 102, 9)!important;
+    clear: both!important;
+}
+.buttonRed {
+    background-color: rgb(102, 2, 22)!important;
+    border:1px solid rgb(102, 2, 22)!important;
+    border-color: rgb(102, 2, 22)!important;
+    clear: both!important;
+}
+.backgroundArea01 {
+    background-color: rgb(223, 213, 213)!important;
+    clear: both!important;
+}
+.services {
+    font-size: xx-large!important;
+    font-style: unset!important;
+    font-weight: 400!important;
+    clear: both!important;
+    text-rendering: unset!important;
+    text-shadow: 1px 1px 1px #353535!important;
+}
+.background {
+    ax-width: 100%!important;
+    min-height: 400px!important;
+    background-image: url("../../images/background.WEBP")!important;
+    background-size: cover!important;
+    background-position: center!important;
+    background-repeat: no-repeat!important;
+    visibility: visible!important;
+}
+.paddingCol02 {
+    padding-top: 100px!important;
+}
+.contactFormTitle {
+    font-size: xx-large!important;
+    font-style: unset!important;
+    font-weight: 400!important;
+    clear: both!important;
+    text-rendering: unset!important;
+    text-shadow: 2px 2px 2px #353535!important;
+}
+.buttonFormContact {
+    width: 100px!important;
+    border-radius: 8px!important;
+}
+.textEnd {
+    font-size: xx-large!important;
+    font-style: oblique!important;
+}
+.fontRodape {
+    font-size: small!important;
+}
